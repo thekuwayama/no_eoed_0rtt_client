@@ -1,0 +1,17 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    logger (1.5.1)
+    openssl (3.0.0)
+    tttls1.3 (0.2.16)
+      logger
+      openssl
+
+PLATFORMS
+  x86_64-darwin-21
+
+DEPENDENCIES
+  tttls1.3 (= 0.2.16)
+
+BUNDLED WITH
+   2.3.7
