@@ -1,6 +1,6 @@
 # no\_eoed\_0rtt\_client
 
-`no_eoed_0rtt_client` is the replication client that does NOT send EndOfEarlyData when 0-RTT.
+`no_eoed_0rtt_client` is the replication client that does NOT send EndOfEarlyData when TLS 1.3 0-RTT Handshake.
 
 ## Usage
 
