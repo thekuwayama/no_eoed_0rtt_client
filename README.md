@@ -10,6 +10,8 @@ $ cd /path/to/no_eoed_0rtt_client
 
 You can run test server the following:
 
+- https://github.com/thekuwayama/nginx-early-data-docker
+
 ```
 $ docker pull thekuwayama/nginx-early-data
 
@@ -64,4 +66,4 @@ You can browse the 0-RTT handshake.
 
 <img src="/screenshot/wireshark_preferences.png" width="75%">
 
-- [pcap](https://github.com/thekuwayama/no_eoed_0rtt_client/tree/main/pcap)
+The sample pcap file and sslkeylogfile are [here](https://github.com/thekuwayama/no_eoed_0rtt_client/tree/main/pcap).
